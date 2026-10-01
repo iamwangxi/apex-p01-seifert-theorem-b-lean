@@ -1,0 +1,4 @@
+/.lake
+/verification/results/
+__pycache__/
+*.pyc
